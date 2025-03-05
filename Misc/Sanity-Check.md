@@ -1,4 +1,4 @@
-### ![Title](relative/path/to/image.png)
+### ![Title](additional-files/Sanity-Check-Title)
 
 ## Description
 

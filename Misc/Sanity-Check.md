@@ -1,4 +1,4 @@
-### ![Title](additional-files/Sanity-Check-Title)
+### ![Title](additional-files/Sanity-Check-Title.png)
 
 ## Description
 
